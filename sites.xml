@@ -1,0 +1,11 @@
+<site-list version="2">
+  <created-by>
+    <tool>EMIESiteListManager</tool>
+    <version>12.0.0.0</version>
+    <date-created>10/24/2023 12:07:00</date-created>
+  </created-by>
+  <site url="webapp.nathealth.ps/EClaims/security/userLogin.jsf">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+</site-list>
